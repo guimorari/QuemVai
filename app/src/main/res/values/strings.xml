@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QuemVai</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="routes">Rotas</string>
+    <string name="about">Sobre</string>
+    <string name="students">Alunos</string>
+    <string name="user_email">email.aluno@gmail.com</string>
+    <string name="username">Username</string>
+    <string name="settings">Configurações</string>
+</resources>
